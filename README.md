@@ -1,5 +1,5 @@
 # Leaf@Root
-## A Terminal-based plant simulator\game! 
+## A Terminal-based plant simulator\game! 🪴
 
 ## What is Leaf@Root?
 Leaf@Root is a terminal plant simulator/game directly inspired and uses the main code system from my other project Custogotchi! In Leaf@Root you have to take care of a Monstera Addansonii in your terminal!
